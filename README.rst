@@ -18,7 +18,9 @@ Install
 conda create --name repli3d --file spec-file.txt
 
 git clone https://github.com/jeammimi/repli3d
+
 cd repli3d
+
 python setup.py develop
 
 
