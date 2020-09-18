@@ -16,6 +16,7 @@ Install
 ===========
 
 conda create --name repli3d --file spec-file.txt
+conda activet repli3d
 
 git clone https://github.com/jeammimi/repli3d
 
