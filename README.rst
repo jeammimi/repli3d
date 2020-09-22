@@ -15,13 +15,14 @@ A longer description of your project goes here...
 Install
 ===========
 
+git clone https://github.com/jeammimi/repli3d
+
+cd repli3d
+
 conda create --name repli3d --file spec-file.txt
 
 conda activate repli3d
 
-git clone https://github.com/jeammimi/repli3d
-
-cd repli3d
 
 python setup.py develop
 
